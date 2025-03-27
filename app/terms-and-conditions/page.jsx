@@ -56,3 +56,4 @@ const TermsAndConditionsPage = () => {
 };
 
 export default TermsAndConditionsPage;
+

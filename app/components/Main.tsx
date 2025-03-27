@@ -231,14 +231,6 @@ import {
       },
       { 
         id: 20, 
-        name: "CSV to SQL Converter", 
-        description: "Convert your CSV file to SQL with this tool", 
-        logo: (
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#ffffff" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-database"><ellipse cx="12" cy="5" rx="9" ry="3"/><path d="M3 5V19A9 3 0 0 0 21 19V5"/><path d="M3 12A9 3 0 0 0 21 12"/></svg>        ),               
-        href: "/csv-to-sql-converter" 
-      },
-      { 
-        id: 21, 
         name: "DMCA Disclaimer", 
         description: "This is a free DMCA Disclaimer Generator tool that helps you create a DMCA Disclaimer for your website", 
         logo: (
@@ -246,7 +238,7 @@ import {
         href: "/dmca-disclaimer" 
       },
       { 
-        id: 22, 
+        id: 21, 
         name: "DNS Lookup Tool", 
         description: "This is a free DNS Lookup Tool that helps you find the DNS of a website", 
         logo: (
@@ -254,7 +246,7 @@ import {
         href: "/dns-lookup-tool" 
       },
       { 
-        id: 23, 
+        id: 22, 
         name: "DNS Speed Test Tool", 
         description: "This is a free DNS Speed Test Tool that helps you find the speed of your DNS", 
         logo: (
@@ -262,7 +254,7 @@ import {
         href: "/dns-speed-test" 
       },
       { 
-        id: 24, 
+        id: 23, 
         name: "Domain Age Checker", 
         description: "This is a free Domain Age Checker that helps you find the age of a website", 
         logo: (
@@ -270,7 +262,7 @@ import {
         href: "/domain-age-checker" 
       },
       { 
-        id: 25, 
+        id: 24, 
         name: "Favicon Generator", 
         description: "This is a free Favicon Generator tool that helps you to generator favicon.", 
         logo: (
@@ -278,7 +270,7 @@ import {
 href:"/favicon-generator" 
       },
       { 
-        id: 26, 
+        id: 25, 
         name: "Flexbox Generator", 
         description: "This is a free Flexbox layout generator tool for you.", 
         logo: (
@@ -286,7 +278,7 @@ href:"/favicon-generator"
 href:"/flexbox-generator" 
       },
       { 
-        id: 27, 
+        id: 26, 
         name: "HEX to JSX", 
         description: "By using this tool you can easily convert hex to jsx.", 
         logo: (
@@ -294,7 +286,7 @@ href:"/flexbox-generator"
 href:"/hex-to-jsx" 
       },
       { 
-        id: 28, 
+        id: 27, 
         name: "HTML Formatter", 
         description: "By using this tool you can easily format your HTML code.", 
         logo: (
@@ -302,7 +294,7 @@ href:"/hex-to-jsx"
 href:"/html-formatter" 
       },
       { 
-        id: 29, 
+        id: 28, 
         name: "HTML Minifire", 
         description: "By using this tool you can easily minify your HTML code.", 
         logo: (
@@ -310,7 +302,7 @@ href:"/html-formatter"
 href:"/html-minify" 
       },
       { 
-        id: 30, 
+        id: 29, 
         name: "HTML to Markdown", 
         description: "By using this tool you can easily convert your HTML to markdown.", 
         logo: (
@@ -318,7 +310,7 @@ href:"/html-minify"
 href:"/html-to-markdown" 
       },
       { 
-        id: 31, 
+        id: 30, 
         name: "Image Compressor", 
         description: "By using this tool you can easily compress image size.", 
         logo: (
@@ -326,7 +318,7 @@ href:"/html-to-markdown"
 href:"/image-compressor" 
       },
       { 
-        id: 32, 
+        id: 31, 
         name: "Image Cropper", 
         description: "By using this tool you can easily crope image size.", 
         logo: (
@@ -334,12 +326,148 @@ href:"/image-compressor"
 href:"/image-cropper" 
       },
       { 
-        id: 33, 
+        id: 32, 
         name: "Image to Base64", 
         description: "By using this tool you can easily convert image to base64.", 
         logo: (
 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#ffffff" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-binary"><rect x="14" y="14" width="4" height="6" rx="2"/><rect x="6" y="4" width="4" height="6" rx="2"/><path d="M6 20h4"/><path d="M14 10h4"/><path d="M6 14h2v6"/><path d="M14 4h2v6"/></svg>),
 href:"/image-to-base64" 
+      },
+      { 
+        id: 33, 
+        name: "Word Counter", 
+        description: "By using this tool you can easily count the words in your text.", 
+        logo: (
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#ffffff" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-calculator"><rect width="16" height="20" x="4" y="2" rx="2"/><line x1="8" x2="16" y1="6" y2="6"/><line x1="16" x2="16" y1="14" y2="18"/><path d="M16 10h.01"/><path d="M12 10h.01"/><path d="M8 10h.01"/><path d="M12 14h.01"/><path d="M8 14h.01"/><path d="M12 18h.01"/><path d="M8 18h.01"/></svg>),
+href:"/word-counter" 
+      },
+      { 
+        id: 34, 
+        name: "HTML to JSX", 
+        description: "By using this tool you can easily convert your HTML to JSX.", 
+        logo: (
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#ffffff" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-file-code-2"><path d="M4 22h14a2 2 0 0 0 2-2V7l-5-5H6a2 2 0 0 0-2 2v4"/><path d="M14 2v4a2 2 0 0 0 2 2h4"/><path d="m5 12-3 3 3 3"/><path d="m9 18 3-3-3-3"/></svg>),
+href:"/html-to-jsx" 
+      },
+      { 
+        id: 35, 
+        name: "JavaScript Formatter", 
+        description: "By using this tool you can easily format your JavaScript code.", 
+        logo: (
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#ffffff" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-file-scan-icon lucide-file-scan"><path d="M20 10V7l-5-5H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h4"/><path d="M14 2v4a2 2 0 0 0 2 2h4"/><path d="M16 14a2 2 0 0 0-2 2"/><path d="M20 14a2 2 0 0 1 2 2"/><path d="M20 22a2 2 0 0 0 2-2"/><path d="M16 22a2 2 0 0 1-2-2"/></svg>),
+href:"/javascript-formatter" 
+      },
+      { 
+        id: 36, 
+        name: "JSX to JavaScript", 
+        description: "By using this tool you can easily convert your JSX to JavaScript.", 
+        logo: (
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#ffffff" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-container-icon lucide-container"><path d="M22 7.7c0-.6-.4-1.2-.8-1.5l-6.3-3.9a1.72 1.72 0 0 0-1.7 0l-10.3 6c-.5.2-.9.8-.9 1.4v6.6c0 .5.4 1.2.8 1.5l6.3 3.9a1.72 1.72 0 0 0 1.7 0l10.3-6c.5-.3.9-1 .9-1.5Z"/><path d="M10 21.9V14L2.1 9.1"/><path d="m10 14 11.9-6.9"/><path d="M14 19.8v-8.1"/><path d="M18 17.5V9.4"/></svg>),
+href:"/jsx-to-javascript" 
+      },
+      { 
+        id: 37, 
+        name: "JSON Formatter", 
+        description: "By using this tool you can easily format your JSON code.", 
+        logo: (
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#ffffff" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-file-json-icon lucide-file-json"><path d="M15 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7Z"/><path d="M14 2v4a2 2 0 0 0 2 2h4"/><path d="M10 12a1 1 0 0 0-1 1v1a1 1 0 0 1-1 1 1 1 0 0 1 1 1v1a1 1 0 0 0 1 1"/><path d="M14 18a1 1 0 0 0 1-1v-1a1 1 0 0 1 1-1 1 1 0 0 1-1-1v-1a1 1 0 0 0-1-1"/></svg>),
+href:"/json-formatter" 
+      },
+      { 
+        id: 38, 
+        name: "Meta Tags Generator", 
+        description: "By using this tool you can easily generate meta tags for your website.", 
+        logo: (
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#ffffff" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-tags-icon lucide-tags"><path d="m15 5 6.3 6.3a2.4 2.4 0 0 1 0 3.4L17 19"/><path d="M9.586 5.586A2 2 0 0 0 8.172 5H3a1 1 0 0 0-1 1v5.172a2 2 0 0 0 .586 1.414L8.29 18.29a2.426 2.426 0 0 0 3.42 0l3.58-3.58a2.426 2.426 0 0 0 0-3.42z"/><circle cx="6.5" cy="9.5" r=".5" fill="currentColor"/></svg>),
+href:"/meta-tag-generator" 
+      },
+      { 
+        id: 39, 
+        name: "Sitemap Generator", 
+        description: "By using this tool you can easily generate sitemap for your website.", 
+        logo: (
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#ffffff" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-map-pin-plus-inside-icon lucide-map-pin-plus-inside"><path d="M20 10c0 4.993-5.539 10.193-7.399 11.799a1 1 0 0 1-1.202 0C9.539 20.193 4 14.993 4 10a8 8 0 0 1 16 0"/><path d="M12 7v6"/><path d="M9 10h6"/></svg>),
+href:"/sitemap-generator" 
+      },
+      { 
+        id: 40, 
+        name: "Robots.txt Generator", 
+        description: "By using this tool you can easily generate robots.txt for your website.", 
+        logo: (
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#ffffff" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-bot-icon lucide-bot"><path d="M12 8V4H8"/><rect width="16" height="12" x="4" y="8" rx="2"/><path d="M2 14h2"/><path d="M20 14h2"/><path d="M15 13v2"/><path d="M9 13v2"/></svg>),
+href:"/robotstxt-generator" 
+      },
+      { 
+        id: 41, 
+        name: "Screen Resolution Checker", 
+        description: "By using this tool you can easily check the screen resolution of your device.", 
+        logo: (
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#ffffff" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-monitor-icon lucide-monitor"><rect width="20" height="14" x="2" y="3" rx="2"/><line x1="8" x2="16" y1="21" y2="21"/><line x1="12" x2="12" y1="17" y2="21"/></svg>),
+href:"/screen-resolution-checker" 
+      },
+      { 
+        id: 42, 
+        name: "SQL Formatter", 
+        description: "By using this tool you can easily format your SQL code.", 
+        logo: (
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#ffffff" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-database-backup-icon lucide-database-backup"><ellipse cx="12" cy="5" rx="9" ry="3"/><path d="M3 12a9 3 0 0 0 5 2.69"/><path d="M21 9.3V5"/><path d="M3 5v14a9 3 0 0 0 6.47 2.88"/><path d="M12 12v4h4"/><path d="M13 20a5 5 0 0 0 9-3 4.5 4.5 0 0 0-4.5-4.5c-1.33 0-2.54.54-3.41 1.41L12 16"/></svg>),
+href:"/sql-formatter" 
+      },
+      { 
+        id: 43, 
+        name: "SQL Minifier", 
+        description: "By using this tool you can easily minify your SQL code.", 
+        logo: (
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#ffffff" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-repeat2-icon lucide-repeat-2"><path d="m2 9 3-3 3 3"/><path d="M13 18H7a2 2 0 0 1-2-2V6"/><path d="m22 15-3 3-3-3"/><path d="M11 6h6a2 2 0 0 1 2 2v10"/></svg>),
+href:"/sql-minifire" 
+      },
+      { 
+        id: 44, 
+        name: "Case Converter", 
+        description: "By using this tool you can easily convert your text to different cases.", 
+        logo: (
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#ffffff" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-case-upper-icon lucide-case-upper"><path d="m3 15 4-8 4 8"/><path d="M4 13h6"/><path d="M15 11h4.5a2 2 0 0 1 0 4H15V7h4a2 2 0 0 1 0 4"/></svg>),
+href:"/case-converter" 
+      },
+      { 
+        id: 45, 
+        name: "Numberbase Converter", 
+        description: "By using this tool you can easily convert your text to different cases.", 
+        logo: (
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#ffffff" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-list-ordered-icon lucide-list-ordered"><path d="M10 12h11"/><path d="M10 18h11"/><path d="M10 6h11"/><path d="M4 10h2"/><path d="M4 6h1v4"/><path d="M6 18H4c0-1 2-2 2-3s-1-1.5-2-1"/></svg>),
+href:"/numberbase-converter" 
+      },
+      { 
+        id: 46, 
+        name: "SQL to CSV", 
+        description: "By using this tool you can easily convert your SQL to CSV.", 
+        logo: (
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#ffffff" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-file-diff-icon lucide-file-diff"><path d="M15 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7Z"/><path d="M9 10h6"/><path d="M12 13V7"/><path d="M9 17h6"/></svg>),
+href:"/sql-to-csv" 
+      },
+      { 
+        id: 47, 
+        name: "JavaScript Minifier", 
+        description: "By using this tool you can easily minify your JavaScript code.", 
+        logo: (
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#ffffff" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-file-diff-icon lucide-file-diff"><path d="M15 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7Z"/><path d="M9 10h6"/><path d="M12 13V7"/><path d="M9 17h6"/></svg>),
+href:"/javascript-minifire" 
+      },
+      { 
+        id: 48, 
+        name: "JSON Validator", 
+        description: "By using this tool you can easily validate your JSON code.", 
+        logo: (
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#ffffff" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-circle-check-big-icon lucide-circle-check-big"><path d="M21.801 10A10 10 0 1 1 17 3.335"/><path d="m9 11 3 3L22 4"/></svg>),
+href:"/json-validator" 
+      },
+      { 
+        id: 49, 
+        name: "My IP Address", 
+        description: "By using this tool you can easily check your IP address.", 
+        logo: (
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#ffffff" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-map-pinned-icon lucide-map-pinned"><path d="M18 8c0 3.613-3.869 7.429-5.393 8.795a1 1 0 0 1-1.214 0C9.87 15.429 6 11.613 6 8a6 6 0 0 1 12 0"/><circle cx="12" cy="8" r="2"/><path d="M8.714 14h-3.71a1 1 0 0 0-.948.683l-2.004 6A1 1 0 0 0 3 22h18a1 1 0 0 0 .948-1.316l-2-6a1 1 0 0 0-.949-.684h-3.712"/></svg>),
+href:"/my-ip-address" 
       },
     ];
   
