@@ -501,6 +501,62 @@ href:"/lorem-ipsum-generator"
 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#ffffff" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-key-round-icon lucide-key-round"><path d="M2.586 17.414A2 2 0 0 0 2 18.828V21a1 1 0 0 0 1 1h3a1 1 0 0 0 1-1v-1a1 1 0 0 1 1-1h1a1 1 0 0 0 1-1v-1a1 1 0 0 1 1-1h.172a2 2 0 0 0 1.414-.586l.814-.814a6.5 6.5 0 1 0-4-4z"/><circle cx="16.5" cy="7.5" r=".5" fill="currentColor"/></svg>),
   href:"/password-generator" 
       },
+      { 
+        id: 54, 
+        name: "BMI Calculator", 
+        description: "Calculate your Body Mass Index (BMI) and check your weight category.", 
+        logo: (
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#ffffff" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-weight"><circle cx="12" cy="5" r="3"/><path d="M6.5 8a2 2 0 0 0-1.905 1.46L2.1 18.5A2 2 0 0 0 4 21h16a2 2 0 0 0 1.925-2.54L19.4 9.5A2 2 0 0 0 17.48 8Z"/><path d="M9.5 13v-1h5v1"/><path d="M11.5 21v-8h1v8"/></svg>),
+  href:"/bmi-calculator" 
+      },
+      { 
+        id: 55, 
+        name: "Color Contrast Checker", 
+        description: "Check if your text and background colors meet WCAG accessibility standards.", 
+        logo: (
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#ffffff" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-eye"><path d="M2 12s3-7 10-7 10 7 10 7-3 7-10 7-10-7-10-7Z"/><circle cx="12" cy="12" r="3"/></svg>),
+  href:"/color-contrast-checker" 
+      },
+      { 
+        id: 56, 
+        name: "Favicon Generator Tool", 
+        description: "Create custom favicons from text or images for your website.", 
+        logo: (
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#ffffff" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-image"><rect width="18" height="18" x="3" y="3" rx="2" ry="2"/><circle cx="9" cy="9" r="2"/><path d="m21 15-3.086-3.086a2 2 0 0 0-2.828 0L6 21"/></svg>),
+  href:"/favicon-generator-tool" 
+      },
+      { 
+        id: 57, 
+        name: "Password Strength Checker", 
+        description: "Check the security of your passwords and get recommendations to improve them.", 
+        logo: (
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#ffffff" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-shield-check"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10"/><path d="m9 12 2 2 4-4"/></svg>),
+  href:"/password-strength-checker" 
+      },
+      { 
+        id: 58, 
+        name: "Code Snippet Generator", 
+        description: "Create beautiful, syntax-highlighted code snippets for blogs, documentation, or social media.", 
+        logo: (
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#ffffff" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-code"><polyline points="16 18 22 12 16 6"/><polyline points="8 6 2 12 8 18"/></svg>),
+  href:"/code-snippet-generator" 
+      },
+      { 
+        id: 59, 
+        name: "CSV to Table Converter", 
+        description: "Convert CSV data into beautifully styled HTML tables with multiple design options.", 
+        logo: (
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#ffffff" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-table"><path d="M9 3H5a2 2 0 0 0-2 2v4m6-6h10a2 2 0 0 1 2 2v4M9 3v18m0 0h10a2 2 0 0 0 2-2V9M9 21H5a2 2 0 0 1-2-2V9m0 0h18"/></svg>),
+  href:"/csv-to-table" 
+      },
+      { 
+        id: 60, 
+        name: "Text to Speech Converter", 
+        description: "Convert text to natural-sounding speech with multiple voices and languages. Download audio files.", 
+        logo: (
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#ffffff" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-headphones"><path d="M3 18v-6a9 9 0 0 1 18 0v6"/><path d="M21 19a2 2 0 0 1-2 2h-1a2 2 0 0 1-2-2v-3a2 2 0 0 1 2-2h3zM3 19a2 2 0 0 0 2 2h1a2 2 0 0 0 2-2v-3a2 2 0 0 0-2-2H3z"/></svg>),
+  href:"/text-to-speech" 
+      },
     ];
   
     const [searchTerm, setSearchTerm] = useState('');
